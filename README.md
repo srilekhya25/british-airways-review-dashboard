@@ -66,7 +66,7 @@ The dashboard provides insights into **traveller satisfaction** across multiple 
 ---
 
 ## 🚀 How to Reproduce
-1. Download the dataset from [Dataset Source](PUT-DATASET-LINK-HERE).  
+1. 1. Use the dataset files included in this repository: [`ba_reviews.csv`](ba_reviews.csv) and [`Countries.csv`](Countries.csv).  
 2. Open Tableau Public / Tableau Desktop.  
 3. Import the dataset and connect.  
 4. Use the dashboard file (`dashboard.twbx`) included in this repo.  
@@ -77,5 +77,6 @@ The dashboard provides insights into **traveller satisfaction** across multiple 
 👩‍💻 **Srilekhya Vemulawada**  
 - 💼  Data Analyst  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/srilekhya-vemulawada/) 
+
 
 
