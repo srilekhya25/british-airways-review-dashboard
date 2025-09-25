@@ -75,5 +75,6 @@ The dashboard provides insights into **traveller satisfaction** across multiple 
 
 ## 📝 Author
 👩‍💻 **Srilekhya Vemulawada**  
-- 💼 Aspiring Data Analyst  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/srilekhya-vemulawada/) | [GitHub](PUT-GITHUB-HERE)
+- 💼  Data Analyst  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/srilekhya-vemulawada/) 
+
