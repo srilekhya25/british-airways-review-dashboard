@@ -60,8 +60,8 @@ The dashboard provides insights into **traveller satisfaction** across multiple 
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard overview](images/dashboard-overview.png)  
-![KPIs](images/kpis.png)  
+![Dashboard overview](Dashboard_Images/dashboard-overview.png)  
+![KPIs](Dashboard_Images/kpis.png)  
 
 ---
 
@@ -77,4 +77,5 @@ The dashboard provides insights into **traveller satisfaction** across multiple 
 👩‍💻 **Srilekhya Vemulawada**  
 - 💼  Data Analyst  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/srilekhya-vemulawada/) 
+
 
